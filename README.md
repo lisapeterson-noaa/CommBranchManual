@@ -1,4 +1,4 @@
-Template for development of regional lab manuals as part of the PAM SI
+Lab manual for the Office of Science and Technology's Commercial Fishery Statistics Branch. This is based on a template for development of regional lab manuals as part of the PAM SI. Last updated 10/13/2026.
 
 ### Disclaimer
 
