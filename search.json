@@ -34,7 +34,11 @@
     "href": "content/MeetOurTeam.html",
     "title": "Meet Our Team!",
     "section": "",
-    "text": "This section is optional"
+    "text": "This section is optional",
+    "crumbs": [
+      "Optional Pages",
+      "Meet Our Team!"
+    ]
   },
   {
     "objectID": "content/ForeignTrade.html",
@@ -52,14 +56,21 @@
     "href": "content/FIS.html",
     "title": "Fisheries Information System Program",
     "section": "",
-    "text": "Replace with info on program as a whole and PSGs"
+    "text": "Replace with info on program as a whole and PSGs",
+    "crumbs": [
+      "Fisheries Information System Program"
+    ]
   },
   {
     "objectID": "content/FUS.html",
     "href": "content/FUS.html",
     "title": "Fisheries of the United States",
     "section": "",
-    "text": "Documentation for all things [FUS] (https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)"
+    "text": "Documentation for all things [FUS] (https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)",
+    "crumbs": [
+      "Reports",
+      "Fisheries of the United States"
+    ]
   },
   {
     "objectID": "content/CommercialLandings.html",
@@ -324,7 +335,10 @@
     "href": "content/Reports.html",
     "title": "Reports",
     "section": "",
-    "text": "How we go from data sets to our two main data distribution methods, FOSS and FUS"
+    "text": "How we go from data sets to our two main data distribution methods, FOSS and FUS",
+    "crumbs": [
+      "Reports"
+    ]
   },
   {
     "objectID": "content/Resources.html",
@@ -352,14 +366,21 @@
     "href": "content/FOSS.html",
     "title": "Fisheries One Stop Shop",
     "section": "",
-    "text": "Documentation for all things [FOSS] (https://www.fisheries.noaa.gov/foss)"
+    "text": "Documentation for all things [FOSS] (https://www.fisheries.noaa.gov/foss)",
+    "crumbs": [
+      "Reports",
+      "Fisheries One Stop Shop"
+    ]
   },
   {
     "objectID": "content/ProcessedProductsSurvey.html",
     "href": "content/ProcessedProductsSurvey.html",
     "title": "Processed Products Survey",
     "section": "",
-    "text": "All things processed products"
+    "text": "All things processed products",
+    "crumbs": [
+      "Processed Products Survey"
+    ]
   },
   {
     "objectID": "content/Aquaculture.html",
