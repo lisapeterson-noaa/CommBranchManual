@@ -6,20 +6,20 @@ page-layout: full
 
 ## Commercial Fishery Statistics
 
-This manuals will serve as the primary storage location for all OST CFS branch related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
+This manual will serve as the primary storage location for all OST CFS branch related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
 
 ## Pages
 
--   [Fisheries Information System Program](https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html)
--   [Data Sets](https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html)
-    -   [Commercial Landings](https://nmfs-ost.github.io/PAM_template_lab_manual/content/DataManagement.html)
-    -   [Foreign Trade](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
-    -   [Processed Products](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
-    -   [Per Capita Consumption](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
-    -   [Supply](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
-    -   [USCG Vessels](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
-    -   [Aquaculture](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
--   [Processed Products Survey](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
--   [Reports](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
-    -   [FOSS](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
-    -   [FUS](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
+-   [Fisheries Information System Program](https://lisapeterson-noaa.github.io/CommBranchManual/content/FIS.html)
+-   [Data Sets](https://lisapeterson-noaa.github.io/CommBranchManual/content/DataSets.html)
+    -   [Commercial Landings](https://lisapeterson-noaa.github.io/CommBranchManual/content/CommercialLandings.html)
+    -   [Foreign Trade](https://lisapeterson-noaa.github.io/CommBranchManual/content/ForeignTrade.html)
+    -   [Processed Products](https://lisapeterson-noaa.github.io/CommBranchManual/content/ProcessedProducts.html)
+    -   [Per Capita Consumption](https://lisapeterson-noaa.github.io/CommBranchManual/content/PCC.html)
+    -   [Supply](https://lisapeterson-noaa.github.io/CommBranchManual/content/Supply.html)
+    -   [USCG Vessels](https://lisapeterson-noaa.github.io/CommBranchManual/content/USCGVessels.html)
+    -   [Aquaculture](https://lisapeterson-noaa.github.io/CommBranchManual/content/Aquaculture.html)
+-   [Processed Products Survey](https://lisapeterson-noaa.github.io/CommBranchManual/content/ProcessedProductsSurvey.html)
+-   [Reports](https://lisapeterson-noaa.github.io/CommBranchManual/content/Reports.html)
+    -   [FOSS](https://lisapeterson-noaa.github.io/CommBranchManual/content/FOSS.html)
+    -   [FUS](https://lisapeterson-noaa.github.io/CommBranchManual/content/FUS.html)
