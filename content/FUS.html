@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Analysis Methods – NOAA quarto simple</title>
+<title>Fisheries of the United States – NOAA quarto simple</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -35,8 +35,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/OpenScience.html" rel="next">
-<link href="../content/Hardware.qmd" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -263,7 +261,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item">content/SoftwareAnalysis.qmd</li><li class="breadcrumb-item"><a href="../content/AnalysisMethods.html">Analysis Methods</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item">Fisheries of the United States</li></ol></nav>
         <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -373,19 +371,16 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <button type="button" class="sidebar-item-text sidebar-item-toggle sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-controls="quarto-sidebar-section-2" aria-expanded="true">
+            <button type="button" class="sidebar-item-text sidebar-item-toggle sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-controls="quarto-sidebar-section-2" aria-expanded="false">
  <span class="menu-text" id="quarto-sidebar-section-2-label">content/SoftwareAnalysis.qmd</span><i class="bi bi-chevron-right" aria-hidden="true"></i></button>
       </div>
-      <ul id="quarto-sidebar-section-2" aria-labelledby="quarto-sidebar-section-2-label" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" aria-labelledby="quarto-sidebar-section-2-label" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
  <span class="menu-text">content/Software.qmd</span>
   </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/AnalysisMethods.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Analysis Methods</span></a>
-  </div>
-</li>
+ <span class="menu-text">content/AnalysisMethods.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -426,9 +421,9 @@ ul.task-list li input[type="checkbox"] {
 <main class="content" id="quarto-document-content" tabindex="-1">
 
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item">content/SoftwareAnalysis.qmd</li><li class="breadcrumb-item"><a href="../content/AnalysisMethods.html">Analysis Methods</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Analysis Methods</h1>
+<h1 class="title">Fisheries of the United States</h1>
 </div>
 
 
@@ -445,33 +440,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>An analysis methods section is required and should include the following information;</p>
-<ul>
-<li>Data Prep and Archive
-<ul>
-<li>Data prep (decompressing, creating LTSAs, decimating, etc.)
-<ul>
-<li><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataPrep.html">SAEL example</a></li>
-</ul></li>
-<li>Data quality checks (QAQC scripts)
-<ul>
-<li><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataQualityCheck.html">SAEL example</a></li>
-</ul></li>
-<li>Data upload steps
-<ul>
-<li><p>If you have a internal storage include directions here on where data should be stored and in what format</p></li>
-<li><p>You can also include a data managment structure with standardized naming and storage/folder structures</p></li>
-<li><p><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataUpload.html">SAEL example</a></p></li>
-</ul></li>
-</ul></li>
-<li>Analysis methods for each species, group, or sound source
-<ul>
-<li><p>You can break this down by baleen and toothed whales, soundscapes, etc.</p></li>
-<li><p>Each section should include detailed and reproducible methods that anybody can recreate</p></li>
-</ul></li>
-</ul>
-<p>You can also link to a separate hardware repository if needed (<a href="https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-adrift.html">SAEL example</a>)</p>
-<p><a href="https://swfsc.github.io/glider-lab-manual/content/dataproc-gliders.html">Glider Lab Manual example</a></p>
+<p>Documentation for all things [FUS] (https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)</p>
 
 
 
@@ -1000,18 +969,6 @@ ul.task-list li input[type="checkbox"] {
   <script type="application/javascript">
   window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
-<nav class="page-navigation" aria-label="Page">
-  <div class="nav-page nav-page-previous">
-      <a href="../content/Hardware.qmd" class="pagination-link" aria-label="Hardware">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Hardware</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../content/OpenScience.html" class="pagination-link" aria-label="Open Science">
-        <span class="nav-page-text">Open Science</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -1020,7 +977,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/edit/main/content/AnalysisMethods.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/blob/main/content/AnalysisMethods.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/edit/main/content/FUS.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/blob/main/content/FUS.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/lisapeterson-noaa.github.io/CommBranchManual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
