@@ -33,6 +33,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/FIS.qmd
+        text: Fisheries Information System Program
       - section: content/DataSets.qmd
         text: Data Sets
         contents: 
@@ -50,32 +52,21 @@ website:
             text: USCG Vessels
           - href: content/Aquaculture.qmd
             text: Aquaculture
-      - href: content/FieldMethods.qmd
-        text: "Field Methods"
-      - href: content/DataManagement.qmd
-        text: Data Management
-      - href: content/Hardware.qmd
-        text: Hardware
-      - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
+      - href: content/ProcessedProductsSurvey.qmd
+        text: Processed Products Survey
+      - section: content/Reports.qmd
+        text: Reports
         contents: 
-          - content/Software.qmd
-          - content/AnalysisMethods.qmd
+          - href: content/FOSS.qmd
+            text: Fisheries One Stop Shop
+          - href: content/FUS.qmd
+            text: Fisheries of the United States
       - section: "Optional Pages"
         contents: 
-          - content/OpenScience.qmd
+          - content/MeetOurTeam.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
-      # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
-      #   contents:
-      #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
-      #     - content/NMFS_OpenSciDirections/organize.qmd
-      #     - content/NMFS_OpenSciDirections/add-content.qmd
-      #     - content/NMFS_OpenSciDirections/rendering.qmd
-      #     - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-      #     - content/NMFS_OpenSciDirections/code.qmd
-      #     - content/NMFS_OpenSciDirections/acknowledgements.qmd 
-        
+     
 format:
   html:
     theme:
