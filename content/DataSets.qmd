@@ -1,0 +1,14 @@
+---
+title: Data Sets
+---
+
+This section describes how the critical commercial fisheries data sets are collected and integrated. These include the following:
+
+-   Commercial Landings
+-   Foreign Trade
+-   Processed Products
+-   Per Capita Consumption
+-   Supply
+-   USCG Vessels
+-   Aquaculture
+
