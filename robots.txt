@@ -1,1 +1,1 @@
-Sitemap: https://lisapeterson-noaa.github.io/CommBranch Manual/sitemap.xml
+Sitemap: https://lisapeterson-noaa.github.io/CommBranchManual/sitemap.xml
