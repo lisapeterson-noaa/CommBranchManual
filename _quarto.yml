@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  site-url: "https://lisapeterson-noaa.github.io/CommBranch Manual/" 
+  repo-url: "https://github.com/lisapeterson-noaa.github.io/CommBranch Manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
