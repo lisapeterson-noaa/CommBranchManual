@@ -394,14 +394,10 @@
     ]
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/Supply.html",
+    "href": "content/Supply.html",
+    "title": "Supply",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Onboarding"
-    ]
+    "text": "Replace with documentation"
   }
 ]
