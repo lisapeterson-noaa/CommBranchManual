@@ -83,15 +83,11 @@
     ]
   },
   {
-    "objectID": "content/ProcessedProducts.html",
-    "href": "content/ProcessedProducts.html",
-    "title": "Processed Products",
+    "objectID": "content/Reports.html",
+    "href": "content/Reports.html",
+    "title": "Reports",
     "section": "",
-    "text": "Replace with documentation",
-    "crumbs": [
-      "Data Sets",
-      "Processed Products"
-    ]
+    "text": "How we go from data sets to our two main data distribution methods, FOSS and FUS"
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/publishing.html",
@@ -216,7 +212,7 @@
     "section": "",
     "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
     "crumbs": [
-      "Software & Analysis Methods",
+      "content/SoftwareAnalysis.qmd",
       "Analysis Methods"
     ]
   },
@@ -238,7 +234,7 @@
     "section": "",
     "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
     "crumbs": [
-      "Software & Analysis Methods",
+      "content/SoftwareAnalysis.qmd",
       "Software"
     ]
   },
@@ -363,13 +359,14 @@
     ]
   },
   {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
+    "objectID": "content/ProcessedProducts.html",
+    "href": "content/ProcessedProducts.html",
+    "title": "Processed Products",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
+    "text": "Replace with documentation",
     "crumbs": [
-      "Software & Analysis Methods"
+      "Data Sets",
+      "Processed Products"
     ]
   },
   {
