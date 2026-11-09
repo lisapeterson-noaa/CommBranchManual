@@ -30,57 +30,58 @@
     ]
   },
   {
-    "objectID": "content/Aquaculture.html",
-    "href": "content/Aquaculture.html",
-    "title": "Aquaculture",
+    "objectID": "content/MeetOurTeam.html",
+    "href": "content/MeetOurTeam.html",
+    "title": "Meet Our Team!",
+    "section": "",
+    "text": "This section is optional"
+  },
+  {
+    "objectID": "content/ForeignTrade.html",
+    "href": "content/ForeignTrade.html",
+    "title": "Foreign Trade",
     "section": "",
     "text": "Replace with documentation",
     "crumbs": [
       "Data Sets",
-      "Aquaculture"
+      "Foreign Trade"
     ]
   },
   {
-    "objectID": "content/ProcessedProductsSurvey.html",
-    "href": "content/ProcessedProductsSurvey.html",
-    "title": "Processed Products Survey",
+    "objectID": "content/FIS.html",
+    "href": "content/FIS.html",
+    "title": "Fisheries Information System Program",
     "section": "",
-    "text": "All things processed products"
+    "text": "Replace with info on program as a whole and PSGs"
   },
   {
-    "objectID": "content/FOSS.html",
-    "href": "content/FOSS.html",
-    "title": "Fisheries One Stop Shop",
+    "objectID": "content/FUS.html",
+    "href": "content/FUS.html",
+    "title": "Fisheries of the United States",
     "section": "",
-    "text": "Documentation for all things [FOSS] (https://www.fisheries.noaa.gov/foss)"
+    "text": "Documentation for all things [FUS] (https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)"
   },
   {
-    "objectID": "content/DataSets.html",
-    "href": "content/DataSets.html",
-    "title": "Data Sets",
+    "objectID": "content/CommercialLandings.html",
+    "href": "content/CommercialLandings.html",
+    "title": "Commercial Landings",
     "section": "",
-    "text": "This section describes how the critical commercial fisheries data sets are collected and integrated. These include the following:\n\nCommercial Landings\nForeign Trade\nProcessed Products\nPer Capita Consumption\nSupply\nUSCG Vessels\nAquaculture",
+    "text": "Replace with documentation",
     "crumbs": [
-      "Data Sets"
+      "Data Sets",
+      "Commercial Landings"
     ]
   },
   {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
+    "objectID": "content/ProcessedProducts.html",
+    "href": "content/ProcessedProducts.html",
+    "title": "Processed Products",
     "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to.",
+    "text": "Replace with documentation",
     "crumbs": [
-      "Optional Pages",
-      "Resources"
+      "Data Sets",
+      "Processed Products"
     ]
-  },
-  {
-    "objectID": "content/Reports.html",
-    "href": "content/Reports.html",
-    "title": "Reports",
-    "section": "",
-    "text": "How we go from data sets to our two main data distribution methods, FOSS and FUS"
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/publishing.html",
@@ -319,61 +320,56 @@
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
   },
   {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
+    "objectID": "content/Reports.html",
+    "href": "content/Reports.html",
+    "title": "Reports",
     "section": "",
-    "text": "This section is optional but we recommend creating this place to point to the Open Science repository.\nSAEL Example",
+    "text": "How we go from data sets to our two main data distribution methods, FOSS and FUS"
+  },
+  {
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to.",
     "crumbs": [
       "Optional Pages",
-      "Open Science"
+      "Resources"
     ]
   },
   {
-    "objectID": "content/ProcessedProducts.html",
-    "href": "content/ProcessedProducts.html",
-    "title": "Processed Products",
+    "objectID": "content/DataSets.html",
+    "href": "content/DataSets.html",
+    "title": "Data Sets",
+    "section": "",
+    "text": "This section describes how the critical commercial fisheries data sets are collected and integrated. These include the following:\n\nCommercial Landings\nForeign Trade\nProcessed Products\nPer Capita Consumption\nSupply\nUSCG Vessels\nAquaculture",
+    "crumbs": [
+      "Data Sets"
+    ]
+  },
+  {
+    "objectID": "content/FOSS.html",
+    "href": "content/FOSS.html",
+    "title": "Fisheries One Stop Shop",
+    "section": "",
+    "text": "Documentation for all things [FOSS] (https://www.fisheries.noaa.gov/foss)"
+  },
+  {
+    "objectID": "content/ProcessedProductsSurvey.html",
+    "href": "content/ProcessedProductsSurvey.html",
+    "title": "Processed Products Survey",
+    "section": "",
+    "text": "All things processed products"
+  },
+  {
+    "objectID": "content/Aquaculture.html",
+    "href": "content/Aquaculture.html",
+    "title": "Aquaculture",
     "section": "",
     "text": "Replace with documentation",
     "crumbs": [
       "Data Sets",
-      "Processed Products"
-    ]
-  },
-  {
-    "objectID": "content/CommercialLandings.html",
-    "href": "content/CommercialLandings.html",
-    "title": "Commercial Landings",
-    "section": "",
-    "text": "Replace with documentation",
-    "crumbs": [
-      "Data Sets",
-      "Commercial Landings"
-    ]
-  },
-  {
-    "objectID": "content/FUS.html",
-    "href": "content/FUS.html",
-    "title": "Fisheries of the United States",
-    "section": "",
-    "text": "Documentation for all things [FUS] (https://www.fisheries.noaa.gov/resource/document/fisheries-united-states-reports)"
-  },
-  {
-    "objectID": "content/FIS.html",
-    "href": "content/FIS.html",
-    "title": "Fisheries Information System Program",
-    "section": "",
-    "text": "Replace with info on program as a whole and PSGs"
-  },
-  {
-    "objectID": "content/ForeignTrade.html",
-    "href": "content/ForeignTrade.html",
-    "title": "Foreign Trade",
-    "section": "",
-    "text": "Replace with documentation",
-    "crumbs": [
-      "Data Sets",
-      "Foreign Trade"
+      "Aquaculture"
     ]
   },
   {
