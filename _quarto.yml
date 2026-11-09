@@ -34,7 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - section: content/DataSets.qmd
-         text: Data Sets
+        text: Data Sets
         contents: 
           - href: content/CommercialLandings.qmd
             text: Commercial Landings
