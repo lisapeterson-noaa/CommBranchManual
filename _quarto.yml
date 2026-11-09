@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://lisapeterson-noaa.github.io/CommBranch Manual/" 
-  repo-url: "https://github.com/lisapeterson-noaa.github.io/CommBranch Manual"
+  site-url: "https://lisapeterson-noaa.github.io/CommBranchManual/" 
+  repo-url: "https://github.com/lisapeterson-noaa.github.io/CommBranchManual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
-        text: "NMFS National Passive Acoustic Monitoring Network"
+        href: https://nmfs-ost.github.io
+        text: "NMFS Office of Science and Technology"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://github.com/lisapeterson-noaa.github.io/CommBranchManual
+        text: "NMFS OST Commercial Fisheries Statistics"
 
     style: "docked"
     search: true
@@ -33,14 +33,23 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: content/LabManagement.qmd
+      - section: content/DataSets.qmd
+         text: Data Sets
         contents: 
-          - href: content/Safety.qmd
-            text: Safety
-          - href: content/Inventory.qmd
-            text: Inventory
-          - href: content/Hardware.qmd
-            text: Hardware
+          - href: content/CommercialLandings.qmd
+            text: Commercial Landings
+          - href: content/ForeignTrade.qmd
+            text: Foreign Trade
+          - href: content/ProcessedProducts.qmd
+            text: Processed Products
+          - href: content/PCC.qmd
+            text: Per Capita Consumption
+          - href: content/Supply.qmd
+            text: Supply
+          - href: content/USCGVessels.qmd
+            text: USCG Vessels
+          - href: content/Aquaculture.qmd
+            text: Aquaculture
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd
@@ -52,14 +61,8 @@ website:
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
-        text: Reporting
       - section: "Optional Pages"
         contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
           - content/OpenScience.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
