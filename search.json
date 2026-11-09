@@ -226,7 +226,7 @@
     "section": "",
     "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement.qmd",
       "Safety"
     ]
   },
@@ -346,7 +346,7 @@
     "section": "",
     "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example).\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement.qmd",
       "Hardware"
     ]
   },
@@ -357,7 +357,7 @@
     "section": "",
     "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
     "crumbs": [
-      "Lab Management",
+      "content/LabManagement.qmd",
       "Inventory"
     ]
   },
@@ -373,14 +373,11 @@
     ]
   },
   {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
+    "objectID": "content/DataSets.html",
+    "href": "content/DataSets.html",
+    "title": "Data Sets",
     "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
-    "crumbs": [
-      "Lab Management"
-    ]
+    "text": "This section describes how the critical commercial fisheries data sets are collected and integrated. These include the following:\n\nCommercial Landings\nForeign Trade\nProcessed Products\nPer Capita Consumption\nSupply\nUSCG Vessels\nAquaculture"
   },
   {
     "objectID": "content/Reporting.html",
